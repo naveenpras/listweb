@@ -429,23 +429,24 @@ nav a#pull {
 }
 .big-btns a{
 	display: inline-block;
-	border: 3px solid #282528;
+	<!--border: 3px solid #282528;-->
 	padding: 0.5em 1.2em 0.5em 0.8em;
 	font-size: 1em;
 	font-weight: 600;
-	color: #282528;
+	<!--color: #282528;-->
 	margin-right: 0.6em;
 }
 .big-btns a:hover{
 	text-decoration:none;
 	color:#282528;
 	opacity:0.9;
-	border-color:#FFF;
+	<!--border-color:#FFF;-->
 }
 .big-btns a label{
 	width: 40px;
 	height: 34px;
-	background: url(../images/btn-icons.png) no-repeat 0px 0px;
+	<!--background: url(../images/btn-icons.png) no-repeat 0px 0px;-->
+	background: url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;
 	display: inline-block;
 	vertical-align: middle;
 	margin-right:0.5em;
@@ -874,7 +875,7 @@ p.copy a:hover{
       font-size: 0.8125em;
    }
    .big-btns a {
-      border: 2px solid #282528;
+      <!--border: 2px solid #282528;-->
       padding: 0.2em 1.2em 0.2em 0.5em;
       font-size: 0.85em;
    }
@@ -967,7 +968,7 @@ p.copy a:hover{
 		display:none;
 	}
 	.big-btns a {
-		  border: 2px solid #282528;
+		  <!--border: 2px solid #282528;-->
 		  padding: 0.3em 0.8em 0.1em 0.8em;
 		  font-size: 13px;
 	}
@@ -1132,7 +1133,7 @@ p.copy a:hover{
 		display:none;
 	}
 	.big-btns a {
-		border: 1px solid #282528;
+		<!--border: 1px solid #282528;-->
 		padding: 0.5em 0.8em;
 		font-size: 0.7em;
 	}
@@ -1235,7 +1236,7 @@ p.copy a:hover{
 		display:none;
 	}
 	.big-btns a {
-		border: 1px solid #282528;
+		<!--border: 1px solid #282528;-->
 		padding: 0.4em 0.5em;
 		font-size: 0.6em;
 	}
